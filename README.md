@@ -1,2 +1,2 @@
-# gitCourse
+# learnGit
 just try github
