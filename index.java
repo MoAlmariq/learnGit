@@ -6,6 +6,7 @@ public class index{
 	System.out.println("change and merge"); //i try to merge branch
 	System.out.println("tagging somthing in the project");
 	boolean isNumber = false;
-	boolean isEmpty = true; 
+	boolean isEmpty = true;
+	System.out.println("new branch for testing") 
     }
 }
