@@ -7,6 +7,6 @@ public class index{
 	System.out.println("tagging somthing in the project");
 	boolean isNumber = false;
 	boolean isEmpty = true;
-	System.out.println("new branch for testing") 
+	System.out.println("new branch for testing") //good
     }
 }
